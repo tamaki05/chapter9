@@ -73,13 +73,14 @@ footer {
   }
 
   main {
-    width: 100%;
+    width: 90%;
     display: block;
   }
 
   .step-box {
-    width: 100%;
+    width: 90%;
     margin: 0;
+    margin-bottom: 30px;
   }
 
   .box-img1 {
@@ -97,6 +98,4 @@ footer {
   footer {
     width: 100%;
   }
-  
 }
-mk
